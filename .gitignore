@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/TestProjectNet8Authentication/.vs
+/TestProjectNet8Authentication/bin/Debug/net8.0
+/TestProjectNet8Authentication/obj
+/TestProjectNet8Authentication/Auth.db
+/TestProjectNet8Authentication/Auth.db-shm
+/TestProjectNet8Authentication/Auth.db-wal
+/TestProjectNet8Authentication/Migrations
