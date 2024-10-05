@@ -1,0 +1,6 @@
+@TestProjectNet8Authentication_HostAddress = http://localhost:5142
+
+GET {{TestProjectNet8Authentication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
